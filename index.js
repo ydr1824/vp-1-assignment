@@ -21,4 +21,7 @@ for (let i = 1; i <= 7; i++) {
   };
   dt = dt.next();
 }
+console.log('Hello')
+console.log()
+console.log()
 console.table(arrDates);
